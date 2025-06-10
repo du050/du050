@@ -2,88 +2,125 @@
 
 ---
 
-# 🚀 **Meet Maria - A Passionate Software Developer**
+# 👩‍💻 Maria Eduarda Cintra Xavier
 
-I’m **Maria**, a **Software Developer** with a strong **business mindset**, currently based in **Canada** 🍁. My familiarity lies in **full-stack development**, **design/analysys**, and **data-driven decision-making**. Passionate about **problem-solving**, **scalability**, and **user experience**, I bridge the gap between **technology and business** to create impactful solutions.
-
----
-
-## 🏆 **Why You Should Hire Me**
-
-✅ **Full-Stack Developer**: Skilled in **React.js, Next.js, Python, C#, SQL, and JavaScript**.
-✅ **Business-Driven Engineer**: Strong understanding of **agile workflows**, **product development**, and **data analytics**.
-✅ **Project Leader**: Founder & VP of **CodeBlazers**, leading real-world tech projects with startups & businesses.
-✅ **Fast Learner & Innovator**: Always up-to-date with emerging tech and best practices.
-✅ **Collaboration & Communication**: Exceptional ability to work in cross-functional teams.
-
-📩 **Let’s talk tech & business!** Reach out via [LinkedIn](https://www.linkedin.com/in/maria-eduarda-cintra-xavier) or [Email](mailto:dudacintraxwork@gmail.com).
+📍 Calgary, AB  
+📧 [dudacintraxwork@gmail.com](mailto:dudacintraxwork@gmail.com)  
+📱 +1 (587) 664-0162  
+🔗 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-cintra-xavier)  
+🔗 [GitHub](https://github.com/mariacxavier)
 
 ---
 
-## 🌍 **Projects & Contributions**
+## 🚀 About Me
 
-### **🔹 CodeBlazers Full-Stack Website** *(Leading Development)*
-🚀 **A platform connecting students & companies for innovative tech solutions.**
+I'm an **Aspiring Software Developer** with a strong foundation in **full-stack development**, **UI/UX design**, and **software engineering** principles. My passion lies in crafting intuitive, scalable, and impactful digital solutions that align **technical innovation** with **business value**.
 
-🔗 **Live Site**: [CodeBlazers Website](https://codeblazers.codes/) *(Replace with actual link)*  
-🎨 **Figma Design**: [CodeBlazers UI](https://www.figma.com/design/5kA5lL7u5Tq67GpnVXgWaZ/websiteclub?node-id=0-1&t=T5fLCggNKFqbDemS-1) *(Replace with actual Figma link)*
-
-### **🔹 Eco Advisor Assist** *(In Development)*
-💡 **Enhancing HOT2000 automation & streamlining energy advisor workflows.**
-
-🔗 **More Info**: [Project Details](#) *(Replace with actual project link)*
-
-
+Currently pursuing my **Software Development Diploma at SAIT**, I combine academic knowledge with hands-on experience, contributing to real-world projects and leadership initiatives such as the **CodeBlazers programming club**.
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
-## 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## 💼 Work Experience
 
-## 🖥️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+### 🎯 Vice-President — *CodeBlazers Programming Club*  
+*Nov 2024 – Present | SAIT, Calgary AB*  
+🔗 [CodeBlazers Website](https://codeblazers.codes)
 
-
-## 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-## 🏗️ Software Architecture & Design
-![GraphQL](https://img.shields.io/badge/GraphQL-pink?style=for-the-badge&logo=graphql&logoColor=white)
-
-## 🔧 Development Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=pycharm&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-orange?style=for-the-badge&logo=eclipse&logoColor=white)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white)
+- Organized and led hackathons, frontend workshops, and coding bootcamps (30+ participants)
+- Designed and developed a dynamic website with admin dashboard and inventory system — increased memberships by 40%
+- Managed Agile development sprints and led cross-functional teams in real-world tech projects
+- Mentored students in UI/UX design and business-oriented development practices
 
 ---
 
-## 📚 **Currently Learning & Exploring**
+### 🌱 Volunteer Full-Stack Developer — *SAIT Eco Advisors*  
+*Nov 2024 – Present | Calgary, AB*
 
-📌 **Advanced Cloud Development** *(AWS, GCP, Azure)*
-📌 **Software Architecture & Scalable Systems**
-📌 **Full-Stack Technologies**
+- Built responsive React.js UI components with optimized state management
+- Created a comprehensive design system to unify UI/UX across multiple tools
+- Conducted usability tests to improve overall user experience and navigation flow
 
 ---
 
-## 🤝 **Let’s Connect!**
+### 🔧 Freelance Developer — *SSCBSP*  
+*Mar 2025 – Present | Remote (Calgary, AB)*
+
+- Integrated a CMS feature to calculate minimum salary averages
+- Worked with **Laravel** (PHP) and **MySQL** backend to expand platform capabilities
+- Used **Bitbucket** for version control and collaborative task management
+
+---
+
+## 🎓 Education
+
+**Software Development Diploma (Expected Aug 2025)**  
+*Southern Alberta Institute of Technology (SAIT)* — Calgary, AB
+
+**Key Focus Areas:**
+- 🔹 Programming: C#, Python, Java, JavaScript  
+- 🔹 Full-Stack Web & Mobile Development  
+- 🔹 Agile Project Management & UX Design  
+- 🔹 MySQL, PL/SQL, Software Security & Testing  
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend  
+TypeScript, React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap, Laravel (PHP), Responsive Design
+
+### Backend  
+Node.js, Next.js API Routes, Python, Java, C# (MAUI), Firebase, Supabase, MySQL, PL/SQL
+
+### Tools & Workflow  
+Figma, Git, GitHub, Bitbucket, Agile (Scrum/Kanban), CMS Integration, Visual Studio Code, IntelliJ
+
+---
+
+## 🌟 Highlighted Projects
+
+### 🔹 [CodeBlazers Website](https://codeblazers.codes) *(Lead Developer)*
+> Connecting students and startups through real-world software solutions.
+
+- 🚀 Custom dashboards, admin panels, and full-stack feature set
+- 🎨 [Figma UI Design](https://www.figma.com/design/5kA5lL7u5Tq67GpnVXgWaZ/websiteclub?node-id=0-1&t=T5fLCggNKFqbDemS-1)
+
+---
+
+### 🔹 Eco Advisor Assist *(In Progress)*
+> Streamlining energy advisor workflows and HOT2000 integration.
+
+- 💻 Focused on UI/UX consistency and performance optimization
+- 🔍 Built scalable React components and reusable patterns
+
+---
+
+## 📚 Currently Exploring
+
+- ☁️ **Cloud Services**: AWS, Azure, GCP  
+- ⚙️ **Software Architecture & DevOps**  
+- 📱 **Mobile App Development (C# MAUI)**  
+- 🔐 **Security & Software Testing Best Practices**
+
+---
+
+## 🌍 Volunteer Experience
+
+### 🗣️ English Conversation Partner – *SAIT*  
+*May 2024 – Aug 2024*
+
+- Helped international students improve English fluency through weekly conversation practice
+- Promoted inclusion and cultural integration within the SAIT student community
+
+---
+
+## 🤝 Let’s Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-cintra-xavier)  
 💻 [GitHub](https://github.com/mariacxavier)  
-📩 [Email](mailto:dudacintraxwork@gmail.com)
+📧 [Email](mailto:dudacintraxwork@gmail.com)
 
 ---
 
-> *“You have to go out there and conquer, dont just stay still, do as I taught you.”* – My Mom.
-
+> _"You have to go out there and conquer — don’t just stay still, do as I taught you."_  
+> — **My Mom** 💜
