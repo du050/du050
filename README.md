@@ -101,6 +101,7 @@ Figma, Git, GitHub, Bitbucket, Agile (Scrum/Kanban), CMS Integration, Visual Stu
 - ⚙️ **Software Architecture & DevOps**  
 - 📱 **Mobile App Development (C# MAUI)**  
 - 🔐 **Security & Software Testing Best Practices**
+- AI 
 
 ---
 
